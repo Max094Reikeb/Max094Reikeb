@@ -6,4 +6,4 @@
 
 [![My stats](https://github-readme-stats.vercel.app/api?username=Max094Reikeb&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goldorion&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Max094Reikeb&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
