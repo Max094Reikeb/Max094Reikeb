@@ -1,5 +1,5 @@
 ### Hello there 👋
-- 🌱 I’m currently learning Java.
+- 🌱 Awesome developper in Web, Java, and iOS.
 - 💬 Fan of Super Heroes, Star Wars, Harry Potter, Minecraft and Pokemon.
 - 📫 How to reach me: Discord - Player Max = new Steve();#3833
 - ⚡ I love junk food and Tacos!
