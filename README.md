@@ -45,7 +45,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Max094Reikeb">
-          <img align="center" src="https://github-readme-streak-stats-ranit.vercel.app/?user=Max094Reikeb&theme=radical&hide_border=true  " alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Max094Reikeb&theme=algolia&show_icons=true" alt="GitHub Stats" />
         </a>
       </p>
     </td>
